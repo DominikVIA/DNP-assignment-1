@@ -1,5 +1,8 @@
 ﻿using CLI.UI.ManagePosts;
 using CLI.UI.ManageUsers;
+using CLI.UI.ManageComments;
+using CLI.UI.ManageComments;
+
 using RepositoryContracts;
 
 namespace CLI.UI;
@@ -13,7 +16,7 @@ public class CliTerminal(
 {
     private readonly ManageUserView manageUserView = new ManageUserView(userRepo);
     private readonly ManagePostView managePostView = new ManagePostView(postRepo);
-    private readonly ICommentRepository commentRepo = commentRepo;
+    private readonly ManageCommentsView manageCommentsView = new ManageCommentsView(commentRepo);
     private readonly IReactionRepository reactionRepo = reactionRepo;
 
     public Task StartAsync()
@@ -37,6 +40,9 @@ public class CliTerminal(
                     break;
                 case 2: 
                     managePostView.Show();
+                    break;
+                case 3: 
+                    manageCommentsView.Show();
                     break;
                 default:
                     finished = true;

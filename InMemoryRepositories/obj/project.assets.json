@@ -46,19 +46,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\domin\\.nuget\\packages\\": {}
+    "C:\\Users\\patty\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\domin\\RiderProjects\\Assignment_2\\InMemoryRepositories\\InMemoryRepositories.csproj",
+      "projectUniqueName": "C:\\Users\\patty\\OneDrive\\Documentos\\GitHub\\DNP-assignments\\InMemoryRepositories\\InMemoryRepositories.csproj",
       "projectName": "InMemoryRepositories",
-      "projectPath": "C:\\Users\\domin\\RiderProjects\\Assignment_2\\InMemoryRepositories\\InMemoryRepositories.csproj",
-      "packagesPath": "C:\\Users\\domin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\domin\\RiderProjects\\Assignment_2\\InMemoryRepositories\\obj\\",
+      "projectPath": "C:\\Users\\patty\\OneDrive\\Documentos\\GitHub\\DNP-assignments\\InMemoryRepositories\\InMemoryRepositories.csproj",
+      "packagesPath": "C:\\Users\\patty\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\patty\\OneDrive\\Documentos\\GitHub\\DNP-assignments\\InMemoryRepositories\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\domin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\patty\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -70,11 +70,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\domin\\RiderProjects\\Assignment_2\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\domin\\RiderProjects\\Assignment_2\\Entities\\Entities.csproj"
+            "C:\\Users\\patty\\OneDrive\\Documentos\\GitHub\\DNP-assignments\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\patty\\OneDrive\\Documentos\\GitHub\\DNP-assignments\\Entities\\Entities.csproj"
             },
-            "C:\\Users\\domin\\RiderProjects\\Assignment_2\\RepositoryContracts\\RepositoryContracts.csproj": {
-              "projectPath": "C:\\Users\\domin\\RiderProjects\\Assignment_2\\RepositoryContracts\\RepositoryContracts.csproj"
+            "C:\\Users\\patty\\OneDrive\\Documentos\\GitHub\\DNP-assignments\\RepositoryContracts\\RepositoryContracts.csproj": {
+              "projectPath": "C:\\Users\\patty\\OneDrive\\Documentos\\GitHub\\DNP-assignments\\RepositoryContracts\\RepositoryContracts.csproj"
             }
           }
         }

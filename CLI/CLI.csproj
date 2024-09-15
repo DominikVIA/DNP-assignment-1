@@ -14,9 +14,4 @@
       <ProjectReference Include="..\RepositoryVerificationProxies\RepositoryVerificationProxies.csproj" />
     </ItemGroup>
 
-    <ItemGroup>
-      <Folder Include="UI\ManageComments\" />
-      <Folder Include="UI\ManageReactions\" />
-    </ItemGroup>
-
 </Project>

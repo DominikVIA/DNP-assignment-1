@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\domin\\RiderProjects\\Assignment_2\\CLI\\CLI.csproj": {}
+    "C:\\Users\\patty\\OneDrive\\Documentos\\GitHub\\DNP-assignments\\CLI\\CLI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\domin\\RiderProjects\\Assignment_2\\CLI\\CLI.csproj": {
+    "C:\\Users\\patty\\OneDrive\\Documentos\\GitHub\\DNP-assignments\\CLI\\CLI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\domin\\RiderProjects\\Assignment_2\\CLI\\CLI.csproj",
+        "projectUniqueName": "C:\\Users\\patty\\OneDrive\\Documentos\\GitHub\\DNP-assignments\\CLI\\CLI.csproj",
         "projectName": "CLI",
-        "projectPath": "C:\\Users\\domin\\RiderProjects\\Assignment_2\\CLI\\CLI.csproj",
-        "packagesPath": "C:\\Users\\domin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\domin\\RiderProjects\\Assignment_2\\CLI\\obj\\",
+        "projectPath": "C:\\Users\\patty\\OneDrive\\Documentos\\GitHub\\DNP-assignments\\CLI\\CLI.csproj",
+        "packagesPath": "C:\\Users\\patty\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\patty\\OneDrive\\Documentos\\GitHub\\DNP-assignments\\CLI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\domin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\patty\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -26,17 +26,17 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\domin\\RiderProjects\\Assignment_2\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\domin\\RiderProjects\\Assignment_2\\Entities\\Entities.csproj"
+              "C:\\Users\\patty\\OneDrive\\Documentos\\GitHub\\DNP-assignments\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\patty\\OneDrive\\Documentos\\GitHub\\DNP-assignments\\Entities\\Entities.csproj"
               },
-              "C:\\Users\\domin\\RiderProjects\\Assignment_2\\InMemoryRepositories\\InMemoryRepositories.csproj": {
-                "projectPath": "C:\\Users\\domin\\RiderProjects\\Assignment_2\\InMemoryRepositories\\InMemoryRepositories.csproj"
+              "C:\\Users\\patty\\OneDrive\\Documentos\\GitHub\\DNP-assignments\\InMemoryRepositories\\InMemoryRepositories.csproj": {
+                "projectPath": "C:\\Users\\patty\\OneDrive\\Documentos\\GitHub\\DNP-assignments\\InMemoryRepositories\\InMemoryRepositories.csproj"
               },
-              "C:\\Users\\domin\\RiderProjects\\Assignment_2\\RepositoryContracts\\RepositoryContracts.csproj": {
-                "projectPath": "C:\\Users\\domin\\RiderProjects\\Assignment_2\\RepositoryContracts\\RepositoryContracts.csproj"
+              "C:\\Users\\patty\\OneDrive\\Documentos\\GitHub\\DNP-assignments\\RepositoryContracts\\RepositoryContracts.csproj": {
+                "projectPath": "C:\\Users\\patty\\OneDrive\\Documentos\\GitHub\\DNP-assignments\\RepositoryContracts\\RepositoryContracts.csproj"
               },
-              "C:\\Users\\domin\\RiderProjects\\Assignment_2\\RepositoryVerificationProxies\\RepositoryVerificationProxies.csproj": {
-                "projectPath": "C:\\Users\\domin\\RiderProjects\\Assignment_2\\RepositoryVerificationProxies\\RepositoryVerificationProxies.csproj"
+              "C:\\Users\\patty\\OneDrive\\Documentos\\GitHub\\DNP-assignments\\RepositoryVerificationProxies\\RepositoryVerificationProxies.csproj": {
+                "projectPath": "C:\\Users\\patty\\OneDrive\\Documentos\\GitHub\\DNP-assignments\\RepositoryVerificationProxies\\RepositoryVerificationProxies.csproj"
               }
             }
           }
@@ -75,17 +75,17 @@
         }
       }
     },
-    "C:\\Users\\domin\\RiderProjects\\Assignment_2\\Entities\\Entities.csproj": {
+    "C:\\Users\\patty\\OneDrive\\Documentos\\GitHub\\DNP-assignments\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\domin\\RiderProjects\\Assignment_2\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\patty\\OneDrive\\Documentos\\GitHub\\DNP-assignments\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\domin\\RiderProjects\\Assignment_2\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\domin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\domin\\RiderProjects\\Assignment_2\\Entities\\obj\\",
+        "projectPath": "C:\\Users\\patty\\OneDrive\\Documentos\\GitHub\\DNP-assignments\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\patty\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\patty\\OneDrive\\Documentos\\GitHub\\DNP-assignments\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\domin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\patty\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -133,17 +133,17 @@
         }
       }
     },
-    "C:\\Users\\domin\\RiderProjects\\Assignment_2\\InMemoryRepositories\\InMemoryRepositories.csproj": {
+    "C:\\Users\\patty\\OneDrive\\Documentos\\GitHub\\DNP-assignments\\InMemoryRepositories\\InMemoryRepositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\domin\\RiderProjects\\Assignment_2\\InMemoryRepositories\\InMemoryRepositories.csproj",
+        "projectUniqueName": "C:\\Users\\patty\\OneDrive\\Documentos\\GitHub\\DNP-assignments\\InMemoryRepositories\\InMemoryRepositories.csproj",
         "projectName": "InMemoryRepositories",
-        "projectPath": "C:\\Users\\domin\\RiderProjects\\Assignment_2\\InMemoryRepositories\\InMemoryRepositories.csproj",
-        "packagesPath": "C:\\Users\\domin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\domin\\RiderProjects\\Assignment_2\\InMemoryRepositories\\obj\\",
+        "projectPath": "C:\\Users\\patty\\OneDrive\\Documentos\\GitHub\\DNP-assignments\\InMemoryRepositories\\InMemoryRepositories.csproj",
+        "packagesPath": "C:\\Users\\patty\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\patty\\OneDrive\\Documentos\\GitHub\\DNP-assignments\\InMemoryRepositories\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\domin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\patty\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -155,11 +155,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\domin\\RiderProjects\\Assignment_2\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\domin\\RiderProjects\\Assignment_2\\Entities\\Entities.csproj"
+              "C:\\Users\\patty\\OneDrive\\Documentos\\GitHub\\DNP-assignments\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\patty\\OneDrive\\Documentos\\GitHub\\DNP-assignments\\Entities\\Entities.csproj"
               },
-              "C:\\Users\\domin\\RiderProjects\\Assignment_2\\RepositoryContracts\\RepositoryContracts.csproj": {
-                "projectPath": "C:\\Users\\domin\\RiderProjects\\Assignment_2\\RepositoryContracts\\RepositoryContracts.csproj"
+              "C:\\Users\\patty\\OneDrive\\Documentos\\GitHub\\DNP-assignments\\RepositoryContracts\\RepositoryContracts.csproj": {
+                "projectPath": "C:\\Users\\patty\\OneDrive\\Documentos\\GitHub\\DNP-assignments\\RepositoryContracts\\RepositoryContracts.csproj"
               }
             }
           }
@@ -198,17 +198,17 @@
         }
       }
     },
-    "C:\\Users\\domin\\RiderProjects\\Assignment_2\\RepositoryContracts\\RepositoryContracts.csproj": {
+    "C:\\Users\\patty\\OneDrive\\Documentos\\GitHub\\DNP-assignments\\RepositoryContracts\\RepositoryContracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\domin\\RiderProjects\\Assignment_2\\RepositoryContracts\\RepositoryContracts.csproj",
+        "projectUniqueName": "C:\\Users\\patty\\OneDrive\\Documentos\\GitHub\\DNP-assignments\\RepositoryContracts\\RepositoryContracts.csproj",
         "projectName": "RepositoryContracts",
-        "projectPath": "C:\\Users\\domin\\RiderProjects\\Assignment_2\\RepositoryContracts\\RepositoryContracts.csproj",
-        "packagesPath": "C:\\Users\\domin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\domin\\RiderProjects\\Assignment_2\\RepositoryContracts\\obj\\",
+        "projectPath": "C:\\Users\\patty\\OneDrive\\Documentos\\GitHub\\DNP-assignments\\RepositoryContracts\\RepositoryContracts.csproj",
+        "packagesPath": "C:\\Users\\patty\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\patty\\OneDrive\\Documentos\\GitHub\\DNP-assignments\\RepositoryContracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\domin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\patty\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -220,8 +220,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\domin\\RiderProjects\\Assignment_2\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\domin\\RiderProjects\\Assignment_2\\Entities\\Entities.csproj"
+              "C:\\Users\\patty\\OneDrive\\Documentos\\GitHub\\DNP-assignments\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\patty\\OneDrive\\Documentos\\GitHub\\DNP-assignments\\Entities\\Entities.csproj"
               }
             }
           }
@@ -260,17 +260,17 @@
         }
       }
     },
-    "C:\\Users\\domin\\RiderProjects\\Assignment_2\\RepositoryVerificationProxies\\RepositoryVerificationProxies.csproj": {
+    "C:\\Users\\patty\\OneDrive\\Documentos\\GitHub\\DNP-assignments\\RepositoryVerificationProxies\\RepositoryVerificationProxies.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\domin\\RiderProjects\\Assignment_2\\RepositoryVerificationProxies\\RepositoryVerificationProxies.csproj",
+        "projectUniqueName": "C:\\Users\\patty\\OneDrive\\Documentos\\GitHub\\DNP-assignments\\RepositoryVerificationProxies\\RepositoryVerificationProxies.csproj",
         "projectName": "RepositoryVerificationProxies",
-        "projectPath": "C:\\Users\\domin\\RiderProjects\\Assignment_2\\RepositoryVerificationProxies\\RepositoryVerificationProxies.csproj",
-        "packagesPath": "C:\\Users\\domin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\domin\\RiderProjects\\Assignment_2\\RepositoryVerificationProxies\\obj\\",
+        "projectPath": "C:\\Users\\patty\\OneDrive\\Documentos\\GitHub\\DNP-assignments\\RepositoryVerificationProxies\\RepositoryVerificationProxies.csproj",
+        "packagesPath": "C:\\Users\\patty\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\patty\\OneDrive\\Documentos\\GitHub\\DNP-assignments\\RepositoryVerificationProxies\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\domin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\patty\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -282,14 +282,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\domin\\RiderProjects\\Assignment_2\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\domin\\RiderProjects\\Assignment_2\\Entities\\Entities.csproj"
+              "C:\\Users\\patty\\OneDrive\\Documentos\\GitHub\\DNP-assignments\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\patty\\OneDrive\\Documentos\\GitHub\\DNP-assignments\\Entities\\Entities.csproj"
               },
-              "C:\\Users\\domin\\RiderProjects\\Assignment_2\\InMemoryRepositories\\InMemoryRepositories.csproj": {
-                "projectPath": "C:\\Users\\domin\\RiderProjects\\Assignment_2\\InMemoryRepositories\\InMemoryRepositories.csproj"
+              "C:\\Users\\patty\\OneDrive\\Documentos\\GitHub\\DNP-assignments\\InMemoryRepositories\\InMemoryRepositories.csproj": {
+                "projectPath": "C:\\Users\\patty\\OneDrive\\Documentos\\GitHub\\DNP-assignments\\InMemoryRepositories\\InMemoryRepositories.csproj"
               },
-              "C:\\Users\\domin\\RiderProjects\\Assignment_2\\RepositoryContracts\\RepositoryContracts.csproj": {
-                "projectPath": "C:\\Users\\domin\\RiderProjects\\Assignment_2\\RepositoryContracts\\RepositoryContracts.csproj"
+              "C:\\Users\\patty\\OneDrive\\Documentos\\GitHub\\DNP-assignments\\RepositoryContracts\\RepositoryContracts.csproj": {
+                "projectPath": "C:\\Users\\patty\\OneDrive\\Documentos\\GitHub\\DNP-assignments\\RepositoryContracts\\RepositoryContracts.csproj"
               }
             }
           }
